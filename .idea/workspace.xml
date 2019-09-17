@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93cc0de8-3cdf-4d90-a413-6012e1714124" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ant-zorro" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant-zorro/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant-zorro/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant-zorro/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ant-zorro/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ant-zorro/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant-zorro/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant-zorro/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ant-zorro/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant-zorro/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ant-zorro/src/app/button/button.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ant-zorro/src/app/button/button.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,103 +23,127 @@
     <session id="-1018518413">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
-          <entry key="json" value="1" />
+          <entry key="html" value="16" />
+          <entry key="json" value="2" />
           <entry key="scss" value="1" />
-          <entry key="ts" value="5" />
+          <entry key="ts" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
-          <entry key="JSON" value="1" />
+          <entry key="HTML" value="16" />
+          <entry key="JSON" value="2" />
           <entry key="SCSS" value="1" />
-          <entry key="TypeScript" value="5" />
+          <entry key="TypeScript" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1395" />
+          <entry key="html" value="8038" />
           <entry key="json" value="19" />
-          <entry key="ts" value="185" />
+          <entry key="ts" value="1856" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1395" />
+          <entry key="HTML" value="8038" />
           <entry key="JSON" value="19" />
-          <entry key="TypeScript" value="185" />
+          <entry key="TypeScript" value="1856" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="Angular2LanguageService" value="1" />
+          <entry key="Angular2LanguageService" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-zorro/package.json">
+        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#nz-sider#0;n#nz-layout#0;n#nz-layout#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/table/table.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
+              <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/table/table.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ant-zorro/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
               <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app-routing.module.ts">
+        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/tree/tree.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="1428">
+              <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/button/button.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/button/button.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="e#0#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.component.scss">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/menu/menu.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1239">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
+              <folding>
+                <element signature="n#style#0;n#ul#1;n#!!top" expanded="true" />
+                <element signature="n#li#0;n#ul#1;n#!!top" />
+                <element signature="n#li#1;n#ul#1;n#!!top" />
+                <element signature="n#li#2;n#ul#1;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/grid/grid.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -137,18 +156,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/login/login.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="147">
               <caret line="13" column="27" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="27" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
@@ -160,7 +170,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/login/login.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="357">
               <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
@@ -178,10 +188,24 @@
         <option value="$PROJECT_DIR$/ant-zorro/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/ant-zorro/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/ant-zorro/src/app/login/login.component.html" />
-        <option value="$PROJECT_DIR$/ant-zorro/src/app/app-routing.module.ts" />
-        <option value="$PROJECT_DIR$/ant-zorro/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/ant-zorro/src/app/button/button.component.ts" />
         <option value="$PROJECT_DIR$/ant-zorro/src/app/button/button.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/icon/icon.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/grid/grid.component.ts" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/grid/grid.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/layout/layout.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/affix/affix.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/breadcrumb/breadcrumb.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/dropdown/dropdown.component.ts" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/dropdown/dropdown.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/menu/menu.component.ts" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/menu/menu.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/tree/tree.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/tree/tree.component.ts" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/table/table.component.html" />
+        <option value="$PROJECT_DIR$/ant-zorro/src/app/table/table.component.ts" />
       </list>
     </option>
   </component>
@@ -201,11 +225,11 @@
       <path value="$PROJECT_DIR$/ant-zorro/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="121" />
-    <option name="y" value="80" />
-    <option name="width" value="1940" />
-    <option name="height" value="936" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -225,19 +249,6 @@
               <item name="ant-zorro-app" type="462c0819:PsiDirectoryNode" />
               <item name="ant-zorro" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ant-zorro-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ant-zorro-app" type="462c0819:PsiDirectoryNode" />
-              <item name="ant-zorro" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ant-zorro-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ant-zorro-app" type="462c0819:PsiDirectoryNode" />
-              <item name="ant-zorro" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -247,10 +258,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/code/somp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="ts.external.directory.path" value="D:\Angular2\ant-zorro-app\ant-zorro\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
@@ -292,12 +304,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548396139887</updated>
-      <workItem from="1548396141792" duration="9492000" />
+      <workItem from="1548396141792" duration="10755000" />
+      <workItem from="1548638089520" duration="8464000" />
+      <workItem from="1548653923591" duration="11012000" />
+      <workItem from="1548724866406" duration="1445000" />
+      <workItem from="1548739945885" duration="7726000" />
+      <workItem from="1548810535129" duration="8707000" />
+      <workItem from="1549846407128" duration="4922000" />
+      <workItem from="1549883299474" duration="943000" />
+      <workItem from="1549933270825" duration="1375000" />
+      <workItem from="1549952093536" duration="2951000" />
+      <workItem from="1550019835985" duration="838000" />
+      <workItem from="1550226352436" duration="763000" />
+      <workItem from="1550540086753" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9492000" />
+    <option name="totallyTimeSpent" value="59921000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,25 +333,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="121" y="80" width="1940" height="936" extended-state="0" />
+    <frame x="-343" y="785" width="1940" height="904" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" sideWeight="0.5009709" side_tool="true" weight="0.24921136" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49902913" visible="true" weight="0.1382755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48875" visible="true" weight="0.25657204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" weight="0.3294271" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.31625" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" sideWeight="0.51125" side_tool="true" weight="0.13856691" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24088542" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899868" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.22173913" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.64453125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -340,15 +364,156 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ant-zorro/package.json">
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/button/button.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="462">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/icon/icon.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/icon/icon.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/button/button.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="59" selection-start-line="76" selection-start-column="59" selection-end-line="76" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.component.scss">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/breadcrumb/breadcrumb.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/affix/affix.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/dropdown/dropdown.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/layout/layout.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/menu/menu.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/dropdown/dropdown.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/grid/grid.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="124" column="33" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/tree/tree.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="56" column="15" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#nz-sider#0;n#nz-layout#0;n#nz-layout#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/table/table.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/tree/tree.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/menu/menu.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="n#style#0;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#li#0;n#ul#1;n#!!top" />
+            <element signature="n#li#1;n#ul#1;n#!!top" />
+            <element signature="n#li#2;n#ul#1;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/grid/grid.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -359,7 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/login/login.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="147">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
@@ -367,51 +532,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/login/login.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="357">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app-routing.module.ts">
+    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/table/table.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="106">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/ant-zorro/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/button/button.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ant-zorro/src/app/button/button.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="257">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
         </state>
       </provider>
     </entry>
